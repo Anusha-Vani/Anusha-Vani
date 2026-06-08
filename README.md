@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 🤔 I’m looking for help with:
 - Interview Preparation
 - Advanced Data Analytics
--  💬 Ask me about:
+  
+  💬 Ask me about:
 - SQL
 - TABLEAU
 - PYTHON
