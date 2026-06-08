@@ -32,8 +32,8 @@ Here are some ideas to get you started:
 - Linkedin:https://www.linkedin.com/in/sampathirao-anusha-b54954388/
 - Email:sampathiraoanusha.95@gmail.com
 
-## PROJECTS:
-# Electric Vehicle Mrket Analysis
+# PROJECTS:
+## Electric Vehicle Mrket Analysis
 Project link:https://github.com/Anusha-Vani/ELECTRIC-VEHICLE-MARKET-ANALYSIS
   
 
