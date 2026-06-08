@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 - Email:sampathiraoanusha.95@gmail.com
 
 ## PROJECTS:
-# Target Brazil E-commerce Dta Analysis
+# Electric Vehicle Mrket Analysis
 Project link:https://github.com/Anusha-Vani/ELECTRIC-VEHICLE-MARKET-ANALYSIS
   
 
