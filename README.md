@@ -1,6 +1,10 @@
- Hi i am Anusha Sampathirao
+ Hi i am Anusha 
 
-Here are some ideas to get you started:
+# About Me
+
+Aspiring Data Analyst with skills in SQL, Python, Excel, and Tableau. 
+Experienced in data cleaning, exploratory data analysis (EDA), and data visualization through hands-on projects.
+Passionate about transforming data into actionable insights and continuously expanding my analytical skills.
 
  # I’m currently working on:
 - Data Analytics Projects
