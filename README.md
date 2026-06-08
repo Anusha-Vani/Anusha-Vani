@@ -31,5 +31,9 @@ Here are some ideas to get you started:
  📫 How to reach me:
 - Linkedin:https://www.linkedin.com/in/sampathirao-anusha-b54954388/
 - Email:sampathiraoanusha.95@gmail.com
+
+## PROJECTS:
+# Target Brazil E-commerce Dta Analysis
+Project link:https://github.com/Anusha-Vani/ELECTRIC-VEHICLE-MARKET-ANALYSIS
   
 
