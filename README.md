@@ -1,4 +1,7 @@
- Hi i am Anusha 
+ <!-- ANIMATED HEADER -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00C2FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Anusha;Aspiring+Data+Analyst;Turning+Data+into+Insights" />
+</p>
 
 # About Me
 
